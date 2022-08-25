@@ -1,6 +1,7 @@
-
-
-  .entcity {
+.container {
+  border: 1px solid #dadde1;
+}
+.entcity {
     display: block;
     margin: 0 auto;
     margin-top: 80px;

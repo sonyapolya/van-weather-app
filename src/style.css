@@ -1,7 +1,9 @@
-.container {
-    font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
-    background-color: #B2C8DF;
-  }
+.weather-app {
+  font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+  background-color: #B2C8DF;
+  max-width: 100px;
+}
+
   .entcity {
     display: block;
     margin: 0 auto;
@@ -88,3 +90,4 @@
   .source {
     text-align: center;
   }
+
